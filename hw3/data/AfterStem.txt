@@ -1,0 +1,234 @@
+<doc>
+<docno> apw20010120.0310.0146 </docno>
+<docid>data/stori/20010120_0310_0356_apw_eng_458.tkn.txt</docid>
+<doctyp> new </doctyp>
+<txttype> newswir </txttype>
+<text>
+sam cassel score    point milwauke buck extend 
+win streak season high game        victori 
+charlott hornet fridai night  buck  winner    
+   game  stretch central divis lead charlott 
+      game  hornet lost straight    
+    jason caffei score    point decis 
+fourth quarter  combin cassel score    point 
+     run seal game buck  milwauke led 
+just minut plai cassel caffei took 
+ cassel start run free throw  caffei 
+call goaltend shot david weslei shot  redeem 
+score drive dunk drew foul  free throw 
+miss jamal mashburn  cassel score jumper 
+buck        charlott center elden campbel 
+reserv forward derrick coleman  campbel flu 
+forc hornet start oti thorp place  
+coleman  sat bruis left knee  charlott big 
+bodi send reliev thorp p j  brown  left 
+hornet struggl defens littl low post presenc 
+brown defend milwauke basket  
+allow buck clear drive lane built 
+halftim lead   point hornet allow half 
+season  charlott came intens 
+quarter us good shot select aggress work board 
+mount     run pull        hornet took 
+lead game brown s layup       
+     plai  grew tire fourth quarter 
+answer buck  offens  shot    percent 
+game  mashburn tripl doubl charlott    point 
+   rebound    assist  continut feast earli  famin late 
+routin score    quarter  weslei ad     glenn 
+robinson score    buck  note  rai allen streak 
+score    point hornet snap seven 
+game  finish     weslei baron davi combin shoot 
+         hornet christian music group  perform free 
+concert game attract larger crowd  incent 
+help entic fan         show   increas hornet 
+averag 
+</text>
+</doc>
+
+<doc>
+<docid>data/stori/20010120_2106_2132_apw_eng_1343.tkn.txt</docid>
+<docno> apw20010120.2106.0704 </docno>
+<doctyp> new </doctyp>
+<txttype> newswir </txttype>
+<text>
+troi bell  kenni harlei ryan sidnei score    point 
+   boston colleg defeat rutger       saturdai  eagl 
+    big east  best start go      
+time ncaa tournament  rutger             
+singl digit loser leagu game saturdai  
+led todd billet s    point  hold       lead earli 
+second half  boston colleg  struggl field 
+game  broke loos      run      stretch  xavier 
+singletari  ad    point  pair   pointer bell 
+basket kei burst  scarlet knight  big 
+east s second worst free throw shoot team      percent enter 
+game  hurt line eagl  decis 
+run  hit attempt  rutger close 
+doubl digit rest wai bc gradual built lead 
+eagl shot      percent game          
+   percent game late basket  eagl 
+lost          duke tuesdai  start slowli hit just 
+   shot  boston colleg improv went 
+lead       halftim  rutger  road win rank oppon 
+came year ago        templ dec 
+</text>
+</doc>
+<doc>
+<docid>data/stori/20010124_1256_1424_apw_eng_2197.tkn.txt</docid>
+<docno> apw20010124.1256.0442 </docno>
+<doctyp> new </doctyp>
+<txttype> newswir </txttype>
+<text>
+israel prime minist ehud barak recal leader peac deleg 
+egyptian resort taba isra kill 
+west bank nake hindu monk plung river gov t freez estrada s 
+bank account german court keep camera ban tight secur tiananmen 
+squar firework danc lion  chines world 
+welcom start new lunar year  year snake stricken 
+tanker galapago island dump remain fuel 
+fragil marin environ  spill estim        
+gallon addit fuel 
+</text>
+</doc>
+<doc>
+<docid>data/stori/20001002_0800_1000_xin_man_5207.mttkn2.txt</docid>
+<docno> xin20001002.0800.0051 </docno>
+<doctyp> new </doctyp>
+<txttype> text_mt </txttype>
+<text>
+russian secur council secretari ivanov second nation televis 
+said salvag  kursk  submarin kill  militari 
+remain  danger riski    russia  matter 
+   ivanov said russian salvag decid 
+ success doe understand  point 
+u s   russian submarin disast occur occas  
+success withdraw live person bodi salvag 
+preced  case  unit state want help russia recov 
+submarin sank pacif  salvag remnant 
+ivanov nuclear submarin salvag  russia foreign compani 
+salvag public  kursk  technic data 
+said issu  moral principl prioriti  russia 
+order save face  confidenti 
+</text>
+</doc>
+<doc>
+<docid>data/stori/20001018_0000_0959_afp_arb_3805.mttkn2.txt</docid>
+<docno> afa20001018.0000.0020 </docno>
+<doctyp> new </doctyp>
+<txttype> text_mt </txttype>
+<text>
+russian deputi prime minist ilya klebanov announc todai 
+process lift bodi crew board russian nuclear 
+submarin kursk postpon week poor weather 
+condit disast area  schedul begin process 
+todai wednesdai      sailor board submarin sank 
+barent sea arctic august    explos 
+firm caus 
+</text>
+</doc>
+<doc>
+<docid>data/stori/20001018_1000_1359_afp_arb_4465.mttkn2.txt</docid>
+<docno> afa20001018.1000.0062 </docno>
+<doctyp> new </doctyp>
+<txttype> text_mt </txttype>
+<text>
+second man russian announc chief staff gener valeri todai 
+wednesdai doe rule lift bodi 
+crew board kursk submarin  point decis 
+issu  interfax agenc quot sai   exclud 
+non lift bodi    point govern commiss 
+final decis matter  lose new site 
+incid  submerg depth     metr august 
+   barent sea  schedul begin process lift 
+bodi todai postpon week poor weather 
+condit area incid announc russian deputi 
+prime minist ilya klebanov  stress process 
+place doubt 
+</text>
+</doc>
+<doc>
+<docno> cnn20001019.1400.0001 </docno>
+<doctyp> teaser </doctyp>
+<txttype> caption </txttype>
+<text>
+ headlin new second watch  chuck robert 
+</text>
+</doc>
+<doc>
+<docno> cnn20001019.1400.0012 </docno>
+<doctyp> new </doctyp>
+<txttype> caption </txttype>
+<text>
+thank look  s stori    bodi 
+   crew member kill attack  uss cole  recov 
+congress join investig blast  
+bodi arriv tomorrow dover air forc base delawar 
+pentagon offici sai set remain recov 
+todai follow second plane  victim 
+dai search team cut damag interior 
+ship  bodi recov flown home 
+weekend  investig yemen sai make progress 
+hunt attack  cole   walter rodger 
+updat develop case  forens effort paddl rubber 
+dinghi blast hole float insid crippl destroy 
+ uss cole   offici sai investig make good progress 
+time develop signific evid sai 
+launch attack u s  warship  board sai scene 
+insid short catastroph  american fbi direct 
+loui freeh describ blast scene  move deck liter 
+tangl mass metal wire  yemeni offici 
+fbi director sai s consider progress develop 
+evid  senior u s  offici confirm locat 
+bomber oper sai peopl 
+involv  yemen s presid point finger direct 
+afghanistan  element al jihad return afghanistan 
+presid saleh sai think group return 
+afghanistan said yemen identifi number eyewitnesss 
+american us osama bin laden  believ s 
+involv   mayb   replai  earli case 
+come conclus  theori 
+begin investig kind  coast 
+yemen  marin carrier stand  provid support protect 
+salvag oper  attack destroy testifi 
+afundament chang natur terror  offici 
+sai perpetr far like claim respons  
+sai  motiv case simpli kill 
+larg number american  walter rodger  cnn  aden  yemen  u s 
+senat ask  cole  refuel port 
+yemen place  retir gener anthoni zinni ad yemen 
+list refuel spot serv u s  region 
+command middl east  told senat arm servic committe 
+todai strateg decis  sai 
+improv relat yemen 
+</text>
+</doc>
+<doc>
+<docno> cnn20001019.1400.0201 </docno>
+<doctyp> new </doctyp>
+<txttype> caption </txttype>
+<text>
+state depart urg american cautiou travel 
+persian gulf  arabian peninsula  turkei  offici sai s 
+potenti terrorist attack area  advisori warn 
+american low profil reduc vulner 
+vari travel rout time  offici sai detect 
+ usual  activ peopl associ known terrorist 
+group  pentagon sourc sai militari forc turkei higher 
+alert 
+</text>
+</doc>
+<doc>
+<docno> cnn20001019.1400.0229 </docno>
+<doctyp> new </doctyp>
+<txttype> caption </txttype>
+<text>
+stock price higher wall street todai  investor 
+recoup loss yesterdai s dismal downturn  
+dow jone industri averag plung     point earli yesterdai 
+recov somewhat  close        time 
+mid march  analyst sai investor encourag todai good 
+earn report softwaremak microsoft  internet servic provid 
+america onlin  commun chipmak broadcom  mobil phone 
+maker nokia   let s check number wall street 
+</text>
+</doc>

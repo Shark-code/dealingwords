@@ -1,0 +1,234 @@
+<DOC>
+<DOCNO> APW20010120.0310.0146 </DOCNO>
+<DOCID>Data/stories/20010120_0310_0356_APW_ENG_458.tkn.txt</DOCID>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+sam cassell scored    points milwaukee bucks extended 
+winning streak season high games        victory 
+charlotte hornets friday night  bucks  winners    
+   games  stretched central division lead charlotte 
+      games  hornets lost straight    
+    jason caffey scored    points decisive 
+fourth quarter  combined cassell score    points 
+     run sealed game bucks  milwaukee led 
+just minutes play cassell caffey took 
+ cassell started run free throws  caffey 
+called goaltending shot david wesley shot  redeemed 
+scoring driving dunk drew foul  free throw 
+miss jamal mashburn  cassell scored jumper 
+bucks        charlotte center elden campbell 
+reserve forward derrick coleman  campbell flu 
+forcing hornets start otis thorpe place  
+coleman  sat bruised left knee  charlotte big 
+bodies send relieve thorpe p j  brown  left 
+hornets struggling defense little low post presence 
+brown defender milwaukee basket  
+allowed bucks clear drives lane built 
+halftime lead   points hornets allowed half 
+season  charlotte came intensity 
+quarter used good shot selection aggressive work boards 
+mount     run pulled        hornets took 
+lead game brown s layup       
+     play  grew tired fourth quarter 
+answer bucks  offense  shot    percent 
+game  mashburn triple double charlotte    points 
+   rebounds    assists  continuted feast early  famine late 
+routine scoring    quarter  wesley added     glenn 
+robinson scored    bucks  notes  ray allen streak 
+scoring    points hornets snapped seven 
+games  finished     wesley baron davis combined shoot 
+         hornets christian music group  perform free 
+concert game attract larger crowd  incentive 
+helped entice fans         showed   increase hornets 
+average 
+</TEXT>
+</DOC>
+
+<DOC>
+<DOCID>Data/stories/20010120_2106_2132_APW_ENG_1343.tkn.txt</DOCID>
+<DOCNO> APW20010120.2106.0704 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+troy bell  kenny harley ryan sidney scored    points 
+   boston college defeated rutgers       saturday  eagles 
+    big east  best start going      
+time ncaa tournament  rutgers             
+single digit loser league games saturday  
+led todd billet s    points  holding       lead early 
+second half  boston college  struggled field 
+game  broke loose      run      stretch  xavier 
+singletary  added    points  pair   pointers bell 
+baskets key burst  scarlet knights  big 
+east s second worst free throwing shooting team      percent entering 
+game  hurt line eagles  decisive 
+run  hit attempts  rutgers closed 
+double digits rest way bc gradually built lead 
+eagles shot      percent game          
+   percent game late baskets  eagles 
+lost          duke tuesday  started slowly hit just 
+   shots  boston college improved went 
+lead       halftime  rutgers  road win ranked opponent 
+came years ago        temple dec 
+</TEXT>
+</DOC>
+<DOC>
+<DOCID>Data/stories/20010124_1256_1424_APW_ENG_2197.tkn.txt</DOCID>
+<DOCNO> APW20010124.1256.0442 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+israel prime minister ehud barak recalls leaders peace delegation 
+egyptian resort taba israelis killed 
+west bank naked hindu monks plunge river gov t freezes estrada s 
+bank account german court keeps camera ban tight security tiananmen 
+square fireworks dancing lions  chinese world 
+welcome start new lunar year  year snake stricken 
+tanker galapagos islands dumps remaining fuel 
+fragile marine environment  spilling estimated        
+gallons additional fuel 
+</TEXT>
+</DOC>
+<DOC>
+<DOCID>Data/stories/20001002_0800_1000_XIN_MAN_5207.mttkn2.txt</DOCID>
+<DOCNO> XIN20001002.0800.0051 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TEXT_MT </TXTTYPE>
+<TEXT>
+russian security council secretary ivanov second national television 
+said salvage  kursk  submarine killed  military 
+remains  dangerous risky    russia  matter 
+   ivanov said russian salvage decided 
+ success does understand  pointed 
+u s   russian submarine disaster occurred occasions  
+successful withdrawal living persons bodies salvage 
+precedent  case  united states wants help russia recover 
+submarine sank pacific  salvage remnants 
+ivanov nuclear submarine salvage  russia foreign companies 
+salvage public  kursk  technical data 
+said issue  moral principles priority  russia 
+order save face  confidential 
+</TEXT>
+</DOC>
+<DOC>
+<DOCID>Data/stories/20001018_0000_0959_AFP_ARB_3805.mttkn2.txt</DOCID>
+<DOCNO> AFA20001018.0000.0020 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TEXT_MT </TXTTYPE>
+<TEXT>
+russian deputy prime minister ilya klebanov announced today 
+process lifting bodies crew board russian nuclear 
+submarine kursk postponed week poor weather 
+conditions disaster area  scheduled begin process 
+today wednesday      sailors board submarine sank 
+barents sea arctic august    explosion 
+firm causes 
+</TEXT>
+</DOC>
+<DOC>
+<DOCID>Data/stories/20001018_1000_1359_AFP_ARB_4465.mttkn2.txt</DOCID>
+<DOCNO> AFA20001018.1000.0062 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TEXT_MT </TXTTYPE>
+<TEXT>
+second man russian announced chiefs staff general valery today 
+wednesday does rule lift bodies 
+crew board kursk submarine  pointing decision 
+issue  interfax agency quoted saying   exclude 
+non lift bodies    pointing government commission 
+final decision matter  losing new site 
+incident  submerged depth     metres august 
+   barents sea  scheduled begin process lifting 
+bodies today postponed week poor weather 
+conditions area incident announced russian deputy 
+prime minister ilya klebanov  stressed process 
+place doubt 
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO> CNN20001019.1400.0001 </DOCNO>
+<DOCTYPE> TEASER </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+ headline news second watch  chuck roberts 
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO> CNN20001019.1400.0012 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+thanks looking  s story    bodies 
+   crew members killed attack  uss cole  recovered 
+congress joins investigation blast  
+bodies arrive tomorrow dover air force base delaware 
+pentagon officials say sets remains recovered 
+today follow second plane  victims 
+days search teams cutting damaged interior 
+ship  bodies recovered flown home 
+weekend  investigators yemen say making progress 
+hunt attack  cole   walter rodgers 
+updates developments case  forensic efforts paddle rubber 
+dinghy blast hole float inside crippled destroyer 
+ uss cole   officials say investigation making good progress 
+time develop significant evidence say 
+launched attack u s  warship  board say scene 
+inside short catastrophic  american fbi directer 
+louis freeh described blast scene  moved decks literally 
+tangled mass metal wire  yemeni officials 
+fbi director say s considerable progress developing 
+evidence  senior u s  official confirmed locations 
+bombers operated say people 
+involved  yemen s president pointing finger direction 
+afghanistan  elements al jihad returning afghanistan 
+president saleh says thinks group returning 
+afghanistan said yemen identified number eyewitnesss 
+americans used osama bin laden  believe s 
+involved   maybe   replayed  early case 
+come conclusion  theories 
+begin investigation kind  coast 
+yemen  marine carrier stands  providing support protection 
+salvage operation  attack destroyer testifies 
+afundamental change nature terrorism  officials 
+say perpetrators far likely claim responsibility  
+say  motivation case simply kill 
+large numbers americans  walter rodgers  cnn  aden  yemen  u s 
+senators asking  cole  refueled port 
+yemen place  retired general anthony zinni added yemen 
+list refueling spots served u s  regional 
+commander middle east  told senate armed services committee 
+today strategic decision  says 
+improving relations yemen 
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO> CNN20001019.1400.0201 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+state department urging americans cautious travel 
+persian gulf  arabian peninsula  turkey  officials say s 
+potential terrorist attacks areas  advisory warns 
+americans low profile reduce vulnerability 
+varying travel routes times  officials say detecting 
+ usual  activity people associated known terrorist 
+groups  pentagon sources say military forces turkey higher 
+alert 
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO> CNN20001019.1400.0229 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+stock prices higher wall street today  investors 
+recouping losses yesterday s dismal downturn  
+dow jones industrial average plunged     points early yesterday 
+recovering somewhat  closed        time 
+mid march  analysts say investors encouraged today good 
+earnings reports softwaremaker microsoft  internet service provider 
+america online  communications chipmaker broadcom  mobile phone 
+maker nokia   let s check numbers wall street 
+</TEXT>
+</DOC>
